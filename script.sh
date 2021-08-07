@@ -1,1 +1,1 @@
-echo 'Hello github'
+ソフトウェア特論
